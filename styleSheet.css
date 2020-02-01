@@ -25,3 +25,8 @@
         .float_left {
                 float: left;
         }
+
+        .bg_bottom {
+                position: fixed;
+                bottom: 0px;
+        }
