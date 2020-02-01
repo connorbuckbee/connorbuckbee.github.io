@@ -28,7 +28,8 @@
                 padding: 20px 20px 20px 20px;
         }
 
-        .bg_bottom {
+                .bg_bottom {
                 position: fixed;
                 bottom: 0px;
+                background-image: url("https://github.com/connorbuckbee/connorbuckbee.github.io/blob/master/myBackground.png");
         }
