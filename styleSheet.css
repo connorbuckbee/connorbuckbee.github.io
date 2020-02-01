@@ -27,10 +27,3 @@
                 float: left;
                 padding: 20px 20px 20px 20px;
         }
-
-        .bg_bottom {
-                position: absolute;
-                width: 100%;
-                background-position: center bottom;
-                background-image: url("https://raw.githubusercontent.com/connorbuckbee/connorbuckbeeu.github.io/master/myBackground.png");
-        }
