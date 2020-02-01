@@ -17,4 +17,11 @@
             font-size: 35px;
             text-align: center;
         }
-        
+
+        .float_right {
+                float: right;   
+        }
+
+        .float_left {
+                float: left;
+        }
