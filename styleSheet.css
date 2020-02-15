@@ -18,6 +18,13 @@
             text-align: center;
         }
 
+        .calibri_h2 {
+            color: #fff7f7;
+            font-family: Calibri;
+            font-size: 18px;
+            text-align: center;
+        }
+
         .float_right {
                 float: right;  
                 padding: 20px 20px 20px 20px;
